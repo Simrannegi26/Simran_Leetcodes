@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0029-divide-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
