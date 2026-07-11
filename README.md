@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0136-single-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
