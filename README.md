@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
