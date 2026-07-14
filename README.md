@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |
