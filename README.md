@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
