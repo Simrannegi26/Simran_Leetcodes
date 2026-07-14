@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
