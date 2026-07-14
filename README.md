@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 ## Greedy
