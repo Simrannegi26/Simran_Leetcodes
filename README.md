@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
