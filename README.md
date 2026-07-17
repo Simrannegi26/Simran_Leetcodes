@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
