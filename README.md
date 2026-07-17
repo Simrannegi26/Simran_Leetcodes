@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -184,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
