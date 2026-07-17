@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 ## Monotonic Stack
 |  |
