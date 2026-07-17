@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0290-word-pattern) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
 | ------- |
