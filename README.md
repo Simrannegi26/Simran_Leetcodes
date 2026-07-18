@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
