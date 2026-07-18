@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0066-plus-one) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0121-best-time-to-buy-and-sell-stock) |
