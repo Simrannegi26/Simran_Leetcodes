@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
 | ------- |
