@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 ## Sorting
