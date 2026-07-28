@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3033-modify-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3033-modify-the-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
