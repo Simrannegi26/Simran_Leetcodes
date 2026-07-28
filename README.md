@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Monotonic Stack
 |  |
 | ------- |
