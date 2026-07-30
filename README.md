@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3033-modify-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3033-modify-the-matrix) |
 ## Sorting
 |  |
