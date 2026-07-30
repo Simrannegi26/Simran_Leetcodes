@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3033-modify-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3033-modify-the-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
