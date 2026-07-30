@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
