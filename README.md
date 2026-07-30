@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Sliding Window
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
