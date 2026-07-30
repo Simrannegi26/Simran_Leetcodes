@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -315,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
