@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
