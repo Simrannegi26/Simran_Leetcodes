@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0155-min-stack) |
+| [0844-backspace-string-compare](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
+| [0844-backspace-string-compare](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Monotonic Stack
