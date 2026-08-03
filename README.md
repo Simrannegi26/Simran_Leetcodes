@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
