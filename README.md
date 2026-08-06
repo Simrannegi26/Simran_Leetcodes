@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3033-modify-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3033-modify-the-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0516-longest-palindromic-subsequence) |
+| [2305-fair-distribution-of-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0078-subsets) |
+| [2305-fair-distribution-of-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2305-fair-distribution-of-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2305-fair-distribution-of-cookies) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Memoization
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
