@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0724-find-pivot-index) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0763-partition-labels) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -369,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0155-min-stack) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
