@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3033-modify-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3033-modify-the-matrix) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/1260-shift-2d-grid) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Simrannegi26/Simran_Leetcodes/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Monotonic Stack
 |  |
